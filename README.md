@@ -1,4 +1,6 @@
-# Avalanche Subnets: Token Management on the Avalanche Blockchain
+# DeFi-Kingdom-Clone-on-Avalanche
+
+## Avalanche Subnets: Token Management on the Avalanche Blockchain
 
 Welcome to Avalanche Subnets! This repository contains two powerful Solidity smart contracts: `ERC20.sol` and `vault.sol`. The `ERC20.sol` contract establishes a foundational ERC-20 token with crucial functionalities like transfer, approve, mint, and burn. Meanwhile, the `vault.sol` contract acts as a robust storage solution, ensuring secure management of the ERC-20 token, facilitating deposits, withdrawals, and maintaining supply and individual balances.
 
